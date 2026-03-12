@@ -1,0 +1,20 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Vasu107"]
+	url = https://github.com/Vasu107/AI-Powered-Interview-Prepration-System.git
+	fetch = +refs/heads/*:refs/remotes/Vasu107/*
+[branch "master"]
+	remote = Vasu107
+	merge = refs/heads/master
+	vscode-merge-base = origin/main
+[remote "git-config---global---add-safe.directory-G-/AI-Powered-Interview-Prepration-System-main/AI-Powered-Interview-Prepration-System-main"]
+	url = https://github.com/shrinkhala41/AI--Powered-Interview-Preparation-System.git
+	fetch = +refs/heads/*:refs/remotes/git-config---global---add-safe.directory-G-/AI-Powered-Interview-Prepration-System-main/AI-Powered-Interview-Prepration-System-main/*
+[remote "origin"]
+	url = https://github.com/shrinkhala41/AI--Powered-Interview-Preparation-System.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
